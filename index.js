@@ -1,6 +1,7 @@
 /**
  * @format
  * kittinun ngamwongthong
+ * BCOM
  */
 
 import {AppRegistry} from 'react-native';
